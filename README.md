@@ -113,3 +113,19 @@ Then click on the "Server" tab on the left-hand side. Select "Public Server" at 
   <img width="452" height="339" src="Assets/Sparrow2.png">
 </p>
 
+Keep in mind that with this configuration, you are using a public Electrum server which means that your transactions will broadcast to a public server. Your bitcoin is not at risk but this method has a privacy tradeoff that is worth considering. In the [Middle Ground](https://www.github.com/econoalchemist/ColdCard-MiddleGround/) guide, I cover more privacy-focused options. To learn more about Sparrow Wallet best practices, check out [this](https://www.sparrowwallet.com/docs/best-practices.html) guide. 
+
+You will notice in the Sparrow Wallet interface lower right-hand corner that the color has changed to yellow. This indicates that your wallet is using a public Electrum server as the back end. 
+
+You can create your new wallet by selecting "File>New Wallet", then you will be asked to name this wallet. Name the wallet whatever you want then click on "Create Wallet". 
+
+<p align="center">
+  <img width="814" height="611" src="Assets/Sparrow3.png">
+</p>
+
+You will see the following screen, you can leave all the settings on the defaults. Plug your ColdCard into the desktop if you haven't done so already before clicking on the "Connected Hardware Wallet" button.
+
+<p align="center">
+  <img width="814" height="611" src="Assets/Sparrow4.png">
+</p>
+
