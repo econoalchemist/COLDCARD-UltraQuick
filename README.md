@@ -140,5 +140,5 @@ After a moment, you will see a summary of the wallet you are about to apply. You
 
 <p align="center">
   <img width="814" height="611" src="Assets/Sparrow7.png">
-  <img width="814" height="611" src="Assets/Sparrow6.png">
+  <img width="814" height="611" src="Assets/Sparrow8.png">
 </p>
