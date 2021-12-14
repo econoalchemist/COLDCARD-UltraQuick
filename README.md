@@ -42,7 +42,7 @@ Here is a diagram you can reference to learn the ColdCard's navigation:
 
 To power on the ColdCard simply connect a USB to micro-USB [cable](https://store.coinkite.com/store/category/accessories) to the port on top pof the ColdCard and the other end to a USB port on your computer. Keep in mind, if you want to keep your ColdCard air-gapped then the [Middle Ground](https://www.github.com/econoalchemist/ColdCard-MiddleGround/) guide may be more appropriate for you, this guide will demonstrate how to use ColdCard connected to a computer.
 
-First, read and accept the terms of sale & use. Then you will be asked to confirm the bag number. If there are any discrepancies, contact [support@coinkite.com.](mailto:support@coinkite.com?subject=%5BContact%5D%20-%20)
+First, read and accept the terms of sale & use. Then you will be asked to confirm the bag number. If there are any discrepancies, contact [support@coinkite.com](mailto:support@coinkite.com?subject=%5BContact%5D%20-%20).
 
 <p align="center">
   <img width="605" height="454" src="Assets/BagNumber.jpg">
@@ -94,4 +94,7 @@ Next, you will be tested on your seed words to ensure you wrote them down correc
 <p align="center">
   <img width="605" height="454" src="Assets/Test.jpg">
 </p>
+
+## Connecting ColdCard to Sparrow Wallet
+Sparrow Wallet is a Bitcoin wallet build to be connected with your own node and ran from your desktop computer. This is a user-friendly wallet with an intuitive interface and many advanced features for a range of capabilities. To learn more about Sparrow Wallet and for installation instructions, visit the [Sparrow Wallet website](https://www.sparrowwallet.com/).
 
