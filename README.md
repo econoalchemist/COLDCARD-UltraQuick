@@ -1,7 +1,9 @@
 # ColdCard Ultra Quick Guide
 An ultra quick guide for beginners to get you from zero to self-custodied cold storage in as few steps as possible. 
 
-![Title Image](Assets/UltraQuickTitleImage-M.png)
+<p align="center">
+  <img width="756" height="441" src="Assets/UltraQuickTitleImage-M.png">
+</p>
 
 This guide covers:
 - Checking the tamper-evident bag
