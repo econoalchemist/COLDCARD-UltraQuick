@@ -33,9 +33,11 @@ You will see the tamper-evident words "void" appear when the seal is opened. Ins
 
 If everything looks good, then you are ready to power on your new ColdCard and get it setup. 
 
-##Setting up a PIN
+## Setting up a PIN
 Here is a diagram you can reference to learn the ColdCard's navigation:
 
 <p align="center">
   <img width="853" height="505" src="Assets/Navigation.png">
 </p>
+
+To power on the ColdCard simply connect a USB to micro-USB [cable](https://store.coinkite.com/store/category/accessories) to the port on top pof the ColdCard and the other end to a USB port on your computer. Keep in mind, if you want to keep your ColdCard air-gapped then the [Middle Ground](https://www.github.com/econoalchemist/ColdCard-MiddleGround/) guide may be more appropriate for you, this guide will demonstrate how to use ColdCard connected to a computer.
