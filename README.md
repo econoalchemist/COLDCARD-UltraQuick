@@ -24,5 +24,18 @@ Upon receiving your ColdCard, ensure that the tamper-evident bag has not been co
   <img width="400" height="300" src="Assets/Bag3.png">
 </p>
 
+You will see the tamper-evident words "void" appear when the seal is opened. Inside you will find your new ColdCard, the Wallet Recovery Backup Card, sticker(s), and an additional copy of the bag number which should match the bag number printed on the outside of the bag. 
 
+<p align="center">
+  <img width="388" height="208" src="Assets/IMG_6079.JPG">
+  <img width="399" height="277" src="Assets/IMG_6080.JPG">
+</p>
 
+If everything looks good, then you are ready to power on your new ColdCard and get it setup. 
+
+##Setting up a PIN
+Here is a diagram you can reference to learn the ColdCard's navigation:
+
+<p align="center">
+  <img width="853" height="505" src="Assets/Navigation.png">
+</p>
