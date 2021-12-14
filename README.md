@@ -96,5 +96,20 @@ Next, you will be tested on your seed words to ensure you wrote them down correc
 </p>
 
 ## Connecting ColdCard to Sparrow Wallet
-Sparrow Wallet is a Bitcoin wallet build to be connected with your own node and ran from your desktop computer. This is a user-friendly wallet with an intuitive interface and many advanced features for a range of capabilities. To learn more about Sparrow Wallet and for installation instructions, visit the [Sparrow Wallet website](https://www.sparrowwallet.com/).
+Sparrow Wallet is a Bitcoin wallet designed to be connected with your own node and ran from your desktop computer. This is a user-friendly wallet with an intuitive interface and many advanced features for a range of capabilities. To learn more about Sparrow Wallet and for installation instructions, visit the [Sparrow Wallet website](https://www.sparrowwallet.com/).
+
+In this guide you will see how to connect your ColdCard to Sparrow Wallet using a reputable public Electrum server as the backend. 
+
+Once you install Sparrow Wallet and launch the application, you will be presented with an empty user interface. Navigate to "File>Preferences".
+
+<p align="center">
+  <img width="814" height="611" src="Assets/Sparrow0.png">
+</p>
+
+Then click on the "Server" tab on the left-hand side. Select "Public Server" at the top, choose a public server from the drop down menu, then click on "Test Connection". It should only take a moment for a sucessful connection to be made. You may have to try a couple different public servers to get a good connection. 
+
+<p align="center">
+  <img width="486" height="364" src="Assets/Sparrow1.png">
+  <img width="486" height="364" src="Assets/Sparrow2.png">
+</p>
 
