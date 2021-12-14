@@ -109,7 +109,7 @@ Once you install Sparrow Wallet and launch the application, you will be presente
 Then click on the "Server" tab on the left-hand side. Select "Public Server" at the top, choose a public server from the drop down menu, then click on "Test Connection". It should only take a moment for a sucessful connection to be made. You may have to try a couple different public servers to get a good connection. 
 
 <p align="center">
-  <img width="486" height="364" src="Assets/Sparrow1.png">
-  <img width="486" height="364" src="Assets/Sparrow2.png">
+  <img width="452" height="339" src="Assets/Sparrow1.png">
+  <img width="452" height="339" src="Assets/Sparrow2.png">
 </p>
 
