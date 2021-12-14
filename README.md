@@ -41,3 +41,9 @@ Here is a diagram you can reference to learn the ColdCard's navigation:
 </p>
 
 To power on the ColdCard simply connect a USB to micro-USB [cable](https://store.coinkite.com/store/category/accessories) to the port on top pof the ColdCard and the other end to a USB port on your computer. Keep in mind, if you want to keep your ColdCard air-gapped then the [Middle Ground](https://www.github.com/econoalchemist/ColdCard-MiddleGround/) guide may be more appropriate for you, this guide will demonstrate how to use ColdCard connected to a computer.
+
+First, read and accept the terms of sale & use. Then you will be asked to confirm the bag number. If there are any discrepancies, contact [support@coinkite.com.](mailto:support@coinkite.com?subject=%5BContact%5D%20-%20)
+
+<p align="center">
+  <img width="605" height="454" src="Assets/BagNumber.jpg">
+</p>
