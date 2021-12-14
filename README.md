@@ -47,3 +47,34 @@ First, read and accept the terms of sale & use. Then you will be asked to confir
 <p align="center">
   <img width="605" height="454" src="Assets/BagNumber.jpg">
 </p>
+
+Make careful considerations with your PIN number. You don't want to use one that is easy to guess. Your PIN will have two parts, a prefix and suffix. The idea is that once you enter the prefix, you will be presented with two anti-phishing words. If the words are the same as the words that were originally presented to you at initial startup, then you know that your ColdCard has not been tampered with since the last time you accessed it. 
+
+
+First, select "Choose PIN Code", then you will see a brief description of how the PIN code works. Each part of your PIN code can be between 2 and 6 digits. There is absolutely no way to access a forgotten or lost PIN. And if you enter a PIN incorrectly too many times, it will brick your ColdCard as a security feature.
+
+<p align="center">
+  <img width="605" height="454" src="Assets/BagNumber.jpg">
+</p>
+
+After hitting "OK" you will get one more warning about the risk of losing or forgetting your PIN. After reading that, you can enter your PIN prefix. Use the included notecard to write down your PIN prefix then hit "OK". 
+
+<p align="center">
+  <img width="605" height="454" src="Assets/BagNumber.jpg">
+  <img width="605" height="454" src="Assets/BagNumber.jpg">
+</p>
+
+Next you will be presented with your two anti-phishing words. Write these down on your notecard.
+
+<p align="center">
+  <img width="605" height="454" src="Assets/BagNumber.jpg">
+</p>
+
+Next, enter your PIN suffix, then write it down on the notecard and hit "OK".
+
+<p align="center">
+  <img width="605" height="454" src="Assets/BagNumber.jpg">
+  <img width="605" height="454" src="Assets/BagNumber.jpg">
+</p>
+
+Then you will be asked to re-enter your PIN prefix, confirm the two anti-phishing words, and enter your PIN suffix. The ColdCard will save that information and then open up the wallet where you can generate your seed phrase.
