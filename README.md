@@ -78,3 +78,13 @@ Next, enter your PIN suffix, then write it down on the notecard and hit "OK".
 </p>
 
 Then you will be asked to re-enter your PIN prefix, confirm the two anti-phishing words, and enter your PIN suffix. The ColdCard will save that information and then open up the wallet where you can generate your seed phrase.
+
+## Generating a seed phrase
+There are a couple considerations you may want to make when creating a seed phrase. For example, ColdCard will generate a seed phrase for you by default, as shown in this guide. However, maybe you don't trust the True Random Number Generator (TRNG) in your ColdCard, you can introduce your own randomness as shown in the [Middle Ground](https://www.github.com/econoalchemist/ColdCard-MiddleGround/) guide.
+
+First, Select "New Wallet" and after a moment you will be presented with 24 words. Write these words down on your notecard. Then double check your work.
+<p align="center">
+  <img width="302" height="227" src="Assets/NewWallet.jpg">
+  <img width="302" height="227" src="Assets/SaveWords1.jpg">
+  <img width="302" height="227" src="Assets/SaveWords2.jpg">
+</p>
