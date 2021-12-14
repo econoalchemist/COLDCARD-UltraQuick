@@ -123,9 +123,22 @@ You can create your new wallet by selecting "File>New Wallet", then you will be 
   <img width="814" height="611" src="Assets/Sparrow3.png">
 </p>
 
-You will see the following screen, you can leave all the settings on the defaults. Plug your ColdCard into the desktop if you haven't done so already before clicking on the "Connected Hardware Wallet" button.
+You will see the following screen, you can leave all the settings on the defaults. Plug your ColdCard into the desktop and log into it if you haven't done so already before clicking on the "Connected Hardware Wallet" button.
 
 <p align="center">
   <img width="814" height="611" src="Assets/Sparrow4.png">
 </p>
 
+After you click on "Connected Hardware Wallet", a screen will pop up and you can click on the "Scan..." button. Then after a moment you should see ColdCard appear on screen with an "Import KeyStore" button, click on that button. 
+
+<p align="center">
+  <img width="814" height="611" src="Assets/Sparrow5.png">
+  <img width="814" height="611" src="Assets/Sparrow6.png">
+</p>
+
+After a moment, you will see a summary of the wallet you are about to apply. You will notice a "Master fingerprint" dialog box with 8 charactersin it. You can use this unique identifyer to confirm that you are importing the correct wallet from your ColdCard. On your ColdCard, from the main menu, navigate down to "Advanced>View Identity" and you can compare the displayed fingerprint to the one displayed in Sparrow Wallet. If everything looks good, then click on "Apply" in Sparrow Wallet. 
+
+<p align="center">
+  <img width="814" height="611" src="Assets/Sparrow7.png">
+  <img width="814" height="611" src="Assets/Sparrow6.png">
+</p>
