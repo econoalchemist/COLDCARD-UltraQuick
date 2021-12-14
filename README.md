@@ -88,3 +88,10 @@ First, Select "New Wallet" and after a moment you will be presented with 24 word
   <img width="302" height="227" src="Assets/SaveWords1.jpg">
   <img width="302" height="227" src="Assets/SaveWords2.jpg">
 </p>
+
+Next, you will be tested on your seed words to ensure you wrote them down correctly. After passing the test, you will be in the ColdCard main menu. Make sure you store your notecard securely. Anyone who gains access to your seed phrase will be able to steal your bitcoin. Never share your seed phrase with anyone.
+
+<p align="center">
+  <img width="605" height="454" src="Assets/Test.jpg">
+</p>
+
