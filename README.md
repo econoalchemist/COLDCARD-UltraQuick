@@ -161,3 +161,25 @@ Now you can click on the "Receive" tab on the left-hand side of the Sparrow Wall
   <img width="452" height="219" src="Assets/Sparrow13.png">
 </p>
 
+You can disconnect your ColdCard from the computer and when you open the wallet in Sparrow Wallet in the future, several addresses will be saved so you can continue depositing to your ColdCard without having to re-connect it every time. It is best practice to confirm each receiving address on the ColdCard itself and also to only use address once. 
+
+When you are ready to spend bitcoin from your ColdCard, navigate to the "Spend" tab on the left-hand side in Sparrow Wallet. There, you can paste the address you are sending to, add a label, enter an amount to send, and choose a miners fee rate, etc. Once you have everything set, click on "Create Transaction". On the next screen click on "Finalize Transaction for signing". 
+
+<p align="center">
+  <img width="452" height="339" src="Assets/Sparrow14.png">
+  <img width="452" height="339" src="Assets/Sparrow15.png">
+  </p>
+  
+Next you will asked to sign the transaction using your ColdCard. You can deposit bitcoin with your ColdCard disconnected but to spend bitcoin, the ColdCard needs to sign the transaction. Sparrow Wallet is used to build the transaction based on your deposits and the information you entered. Connect your ColdCard to your computer and log into it, then in Sparrow Wallet click on the "Sign" button. A pop up window will display your the option for ColdCard, click on the "Sign" button.
+
+<p align="center">
+  <img width="452" height="339" src="Assets/Sparrow16.png">
+  <img width="452" height="339" src="Assets/Sparrow17.png">
+  </p>
+ 
+A moment later on the ColdCard, it will ask you to confirm. Hit the "Ok" button (Check Mark) and the ColdCard will sign the transaction and pass the details back to Sparrow Wallet. Then in Sparrow Wallet, click on the "Broadcast Transaction" button to send the signed transaction to teh Bitcoin Network. 
+
+  <p align="center">
+  <img width="452" height="339" src="Assets/Sparrow18.png">
+  <img width="452" height="339" src="Assets/Sparrow19.png">
+  </p>
