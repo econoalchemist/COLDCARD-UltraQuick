@@ -160,3 +160,4 @@ Now you can click on the "Receive" tab on the left-hand side of the Sparrow Wall
   <img width="452" height="339" src="Assets/Sparrow12.png">
   <img width="452" height="219" src="Assets/Sparrow13.png">
 </p>
+
