@@ -148,3 +148,15 @@ After clicking on "Apply", you will have the opportunity to add a password to yo
 <p align="center">
   <img width="814" height="611" src="Assets/Sparrow9.png">
 </p>
+
+Now you can click on the "Receive" tab on the left-hand side of the Sparrow Wallet interface. Then you will be presented with a bitcoin receiving address, a QR code, and some additional details. You can scan this QR code with your mobile Bitcoin wallet, for example, and deposit some bitcoin to your ColdCard. You should see the transaction show up in Sparrow Wallet after a moment. The transaction will remain in a pending status until it receives some blockchain confirmations. In the mean-time, you can click on the "Transactions" tab and review further details about your transaction. You can also copy/paste your transaction ID in [mempool.space](https://mempool.space/) to watch for your first confirmation. 
+
+<p align="center">
+  <img width="814" height="611" src="Assets/Sparrow10.png">
+  <img width="814" height="611" src="Assets/Sparro11.png">
+  </p>
+  
+  <p align="center">
+  <img width="814" height="611" src="Assets/Sparro12.png">
+  <img width="814" height="611" src="Assets/Sparro13.png">
+</p>
