@@ -132,8 +132,8 @@ You will see the following screen, you can leave all the settings on the default
 After you click on "Connected Hardware Wallet", a screen will pop up and you can click on the "Scan..." button. Then after a moment you should see ColdCard appear on screen with an "Import KeyStore" button, click on that button. 
 
 <p align="center">
-  <img width="814" height="611" src="Assets/Sparrow5.png">
-  <img width="814" height="611" src="Assets/Sparrow6.png">
+  <img width="452" height="339" src="Assets/Sparrow5.png">
+  <img width="452" height="339" src="Assets/Sparrow6.png">
 </p>
 
 After a moment, you will see a summary of the wallet you are about to apply. You will notice a "Master fingerprint" dialog box with 8 charactersin it. You can use this unique identifier to confirm that you are importing the correct wallet from your ColdCard. On your ColdCard, from the main menu, navigate down to "Advanced>View Identity" and you can compare the displayed fingerprint to the one displayed in Sparrow Wallet. If everything looks good, then click on "Apply" in Sparrow Wallet. 
@@ -152,11 +152,11 @@ After clicking on "Apply", you will have the opportunity to add a password to yo
 Now you can click on the "Receive" tab on the left-hand side of the Sparrow Wallet interface. Then you will be presented with a bitcoin receiving address, a QR code, and some additional details. You can scan this QR code with your mobile Bitcoin wallet, for example, and deposit some bitcoin to your ColdCard. You should see the transaction show up in Sparrow Wallet after a moment. The transaction will remain in a pending status until it receives some blockchain confirmations. In the mean-time, you can click on the "Transactions" tab and review further details about your transaction. You can also copy/paste your transaction ID in [mempool.space](https://mempool.space/) to watch for your first confirmation. 
 
 <p align="center">
-  <img width="814" height="611" src="Assets/Sparrow10.png">
-  <img width="814" height="611" src="Assets/Sparro11.png">
+  <img width="540" height="405" src="Assets/Sparrow10.png">
+  <img width="540" height="405" src="Assets/Sparro11.png">
   </p>
   
   <p align="center">
-  <img width="814" height="611" src="Assets/Sparro12.png">
-  <img width="814" height="611" src="Assets/Sparro13.png">
+  <img width="540" height="405" src="Assets/Sparro12.png">
+  <img width="540" height="261" src="Assets/Sparro13.png">
 </p>
