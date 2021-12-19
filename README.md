@@ -15,20 +15,20 @@ This guide covers:
 Upon receiving your ColdCard, ensure that the tamper-evident bag has not been compromised. If anything seems amiss or if you have any problems contact [support@coinkite.com.](mailto:support@coinkite.com?subject=%5BContact%5D%20-%20) Visually inspect the surfaces and edges of the bag for indications of tampering, openings, or damage.
 
 <p align="center">
-  <img width="400" height="300" src="Assets/Bag0.png">
-  <img width="400" height="300" src="Assets/Bag1.png">
+  <img width="475" height="350" src="Assets/Bag0.png">
+  <img width="475" height="350" src="Assets/Bag1.png">
 </p>
 
 <p align="center">
-  <img width="400" height="300" src="Assets/Bag2.png">
-  <img width="400" height="300" src="Assets/Bag3.png">
+  <img width="475" height="350" src="Assets/Bag2.png">
+  <img width="475" height="350" src="Assets/Bag3.png">
 </p>
 
 You will see the tamper-evident words "VOID" appear when the seal is opened. Inside you will find your new ColdCard, the Wallet Recovery Backup Card, sticker(s), and an additional copy of the bag number which should match the bag number printed on the outside of the bag. 
 
 <p align="center">
-  <img width="388" height="208" src="Assets/IMG_6079.JPG">
-  <img width="399" height="277" src="Assets/IMG_6080.JPG">
+  <img width="475" height="245" src="Assets/IMG_6079.JPG">
+  <img width="475" height="321" src="Assets/IMG_6080.JPG">
 </p>
 
 If everything looks good, then you are ready to power on your new ColdCard and get it setup. 
