@@ -56,7 +56,7 @@ First, select `Choose PIN Code`, then you will see a brief description of how th
   <img width="605" height="454" src="Assets/Choose PIN.jpg">
 </p>
 
-After hitting `OK` you will get one more warning about the risk of losing or forgetting your PIN. After reading that, you can enter your PIN prefix. Use the included notecard to write down your PIN prefix then hit `OK`. 
+After hitting <kbd>OK</kbd> you will get one more warning about the risk of losing or forgetting your PIN. After reading that, you can enter your PIN prefix. Use the included notecard to write down your PIN prefix then hit <kbd>OK</kbd>. 
 
 <p align="center">
   <img width="454" height="341" src="Assets/EnterPreFix.jpg">
@@ -69,7 +69,7 @@ Next you will be presented with your two anti-phishing words. Write these down o
   <img width="605" height="454" src="Assets/AntiPhishingWords.jpg">
 </p>
 
-Next, enter your PIN suffix, then write it down on the notecard and hit `OK`.
+Next, enter your PIN suffix, then write it down on the notecard and hit <kbd>OK</kbd>.
 
 <p align="center">
   <img width="454" height="341" src="Assets/EnterSuffix.jpg">
@@ -105,7 +105,7 @@ Once you install Sparrow Wallet and launch the application, you will be presente
   <img width="814" height="611" src="Assets/Sparrow0.png">
 </p>
 
-Then click on the `Server` tab on the left-hand side. Select `Public Server` at the top, choose a public server from the drop down menu, then click on `Test Connection`. It should only take a moment for a sucessful connection to be made. You may have to try a couple different public servers to get a good connection. 
+Then click on the <kbd>Server</kbd> tab on the left-hand side. Select `Public Server` at the top, choose a public server from the drop down menu, then click on <kbd>Test Connection</kbd>. It should only take a moment for a sucessful connection to be made. You may have to try a couple different public servers to get a good connection. 
 
 <p align="center">
   <img width="452" height="339" src="Assets/Sparrow1.png">
@@ -114,41 +114,41 @@ Then click on the `Server` tab on the left-hand side. Select `Public Server` at 
 
 Keep in mind that with this configuration, you are using a public Electrum server which means that your transactions will broadcast to a public server. This also means you are trusting someone else's node. Your bitcoin is not at risk but this method has a privacy tradeoff that is worth considering. In the [Middle Ground](https://www.github.com/econoalchemist/ColdCard-MiddleGround/) guide, more privacy-focused options are covered. To learn more about Sparrow Wallet best practices, check out [this](https://www.sparrowwallet.com/docs/best-practices.html) guide. 
 
-You will notice in the Sparrow Wallet interface lower right-hand corner that the color has changed to yellow. This indicates that your wallet is using a public Electrum server as the back end. 
+You will notice in the Sparrow Wallet interface lower right-hand corner that the toggle switch color has changed to yellow. This indicates that your wallet is using a public Electrum server as the back end. 
 
-You can create your new wallet by selecting `File` > `New Wallet`, then you will be asked to name this wallet. Name the wallet whatever you want then click on `Create Wallet`. 
+You can create your new wallet by selecting `File` > `New Wallet`, then you will be asked to name this wallet. Name the wallet whatever you want then click on <kbd>Create Wallet</kbd>. 
 
 <p align="center">
   <img width="814" height="611" src="Assets/Sparrow3.png">
 </p>
 
-You will see the following screen, you can leave all the settings on the defaults. Plug your ColdCard into the desktop and log into it if you haven't done so already before clicking on the `Connected Hardware Wallet` button.
+You will see the following screen, you can leave all the settings on the defaults. Plug your ColdCard into the desktop and log into it if you haven't done so already before clicking on the <kbd>Connected Hardware Wallet</kbd> button.
 
 <p align="center">
   <img width="814" height="611" src="Assets/Sparrow4.png">
 </p>
 
-Next, a screen will pop up and you can click on the `Scan...` button. Then after a moment you should see ColdCard appear on screen with an `Import KeyStore` button, click on that button. 
+Next, a screen will pop up and you can click on the <kbd>Scan...</kbd> button. Then after a moment you should see ColdCard appear on screen with an <kbd>Import KeyStore</kbd> button, click on that button. 
 
 <p align="center">
   <img width="452" height="339" src="Assets/Sparrow5.png">
   <img width="452" height="339" src="Assets/Sparrow6.png">
 </p>
 
-After a moment, you will see a summary of the wallet you are about to apply. You will notice a "Master fingerprint" dialog box with 8 characters in it. You can use this unique identifier to confirm that you are importing the correct wallet from your ColdCard. On your ColdCard, from the main menu, navigate down to `Advanced` > `View Identity` and you can compare the displayed fingerprint to the one displayed in Sparrow Wallet. If everything looks good, then click on `Apply` in Sparrow Wallet. 
+After a moment, you will see a summary of the wallet you are about to apply. You will notice a "Master fingerprint" dialog box with 8 characters in it. You can use this unique identifier to confirm that you are importing the correct wallet from your ColdCard. On your ColdCard, from the main menu, navigate down to `Advanced` > `View Identity` and you can compare the displayed fingerprint to the one displayed in Sparrow Wallet. If everything looks good, then click on <kbd>Apply</kbd> in Sparrow Wallet. 
 
 <p align="center">
   <img width="814" height="611" src="Assets/Sparrow7.png">
   <img width="814" height="350" src="Assets/Sparrow8.png">
 </p>
 
-After clicking on `Apply`, you will have the opportunity to add a password to your wallet. This is a password which will encrypt the Sparrow Wallet data file that is saved on your computer. This password can protect your wallet if someone else gains access to your Sparrow Wallet file. If you forget your password, you will need to create a new wallet file by repeating this whole process. 
+Next, you will have the opportunity to add a password to your wallet. This is a password which will encrypt the Sparrow Wallet data file that is saved on your computer. This password can protect your wallet if someone else gains access to your Sparrow Wallet file. If you forget your password, you will need to create a new wallet file by repeating this whole process. 
 
 <p align="center">
   <img width="814" height="611" src="Assets/Sparrow9.png">
 </p>
 
-Now you can click on the `Receive` tab on the left-hand side of the Sparrow Wallet interface. Then you will be presented with a bitcoin receiving address, a QR code, and some additional details. You can scan this QR code with your mobile Bitcoin wallet, for example, and deposit some bitcoin to your ColdCard. You should see the transaction show up in Sparrow Wallet after a moment. The transaction will remain in a pending status until it receives some blockchain confirmations. In the mean-time, you can click on the `Transactions` tab and review further details about your transaction. You can also copy/paste your transaction ID in [mempool.space](https://mempool.space/) to watch for your first confirmation, or use whatever your preferred block explorer is. [Tor Browser](https://www.torproject.org/download/) is a privacy-focused browser.  
+Now you can click on the <kbd>Receive</kbd> tab on the left-hand side of the Sparrow Wallet interface. Then you will be presented with a bitcoin receiving address, a QR code, and some additional details. You can scan this QR code with your mobile Bitcoin wallet, for example, and deposit some bitcoin to your ColdCard. You should see the transaction show up in Sparrow Wallet after a moment. The transaction will remain in a pending status until it receives some blockchain confirmations. In the mean-time, you can click on the <kbd>Transactions</kbd> tab and review further details about your transaction. You can also copy/paste your transaction ID in [mempool.space](https://mempool.space/) to watch for your first confirmation, or use whatever your preferred block explorer is. [Tor Browser](https://www.torproject.org/download/) is a privacy-focused browser.  
 
 <p align="center">
   <img width="452" height="339" src="Assets/Sparrow10.png">
@@ -162,21 +162,21 @@ Now you can click on the `Receive` tab on the left-hand side of the Sparrow Wall
 
 You can disconnect the ColdCard from the computer and when you open the wallet in Sparrow Wallet in the future, several addresses will be saved so you can continue depositing to your ColdCard without having to re-connect it every time. It is best practice to confirm each receiving address on the ColdCard itself and also to only use each address once. 
 
-When you are ready to spend bitcoin from your ColdCard, navigate to the `Spend` tab on the left-hand side in Sparrow Wallet. There, you can paste the address you are sending to, add a label, enter an amount to send, and choose a miners fee rate, etc. Once you have everything set, click on `Create Transaction`. On the next screen, click on `Finalize Transaction for signing`. 
+When you are ready to spend bitcoin from your ColdCard, navigate to the <kbd>Spend</kbd> tab on the left-hand side in Sparrow Wallet. There, you can paste the address you are sending to, add a label, enter an amount to send, and choose a miners fee rate, etc. Once you have everything set, click on <kbd>Create Transaction</kbd>. On the next screen, click on <kbd>Finalize Transaction for signing</kbd>. 
 
 <p align="center">
   <img width="452" height="339" src="Assets/Sparrow14.png">
   <img width="452" height="339" src="Assets/Sparrow15.png">
   </p>
   
-Next, you will be asked to sign the transaction using your ColdCard. You can deposit bitcoin with your ColdCard disconnected but to spend bitcoin, the ColdCard needs to sign the transaction. Sparrow Wallet is used to build the transaction based on your deposits and the information you entered when constructing the transaction. Connect your ColdCard to your computer and log into it if you have not done so already, then in Sparrow Wallet click on the `Sign` button. A pop up window will display the option for ColdCard, click on the `Sign` button.
+Next, you will be asked to sign the transaction using your ColdCard. You can deposit bitcoin with your ColdCard disconnected but to spend bitcoin, the ColdCard needs to sign the transaction. Sparrow Wallet is used to build the transaction based on your deposits and the information you entered when constructing the transaction. Connect your ColdCard to your computer and log into it if you have not done so already, then in Sparrow Wallet click on the <kbd>Sign</kbd> button. A pop up window will display the option for ColdCard, click on the <kbd>Sign</kbd> button.
 
 <p align="center">
   <img width="452" height="339" src="Assets/Sparrow16.png">
   <img width="452" height="339" src="Assets/Sparrow17.png">
   </p>
  
-A moment later on the ColdCard, it will ask you to confirm. Hit the `Ok` button (Check Mark) and the ColdCard will sign the transaction and pass the details back to Sparrow Wallet. Then in Sparrow Wallet, click on the `Broadcast Transaction` button to send the signed transaction to the Bitcoin Network. 
+A moment later on the ColdCard, it will ask you to confirm. Hit the <kbd>Ok</kbd> button (Check Mark) and the ColdCard will sign the transaction and pass the details back to Sparrow Wallet. Then in Sparrow Wallet, click on the <kbd>Broadcast Transaction</kbd> button to send the signed transaction to the Bitcoin Network. 
 
   <p align="center">
   <img width="814" height="256" src="Assets/Sparrow18.png">
