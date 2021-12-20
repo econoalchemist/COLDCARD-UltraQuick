@@ -186,6 +186,8 @@ A moment later on the ColdCard, it will ask you to confirm. Hit the <kbd>OK</kbd
   <img width="814" height="256" src="Assets/Sparrow18.png">
   <img width="814" height="611" src="Assets/Sparrow19.png">
   </p>
-  
+
+
+## Conclusion
 That is all for this guide. You should have the knowledge now to check your tamper-evident bag, setup a PIN, create & backup a seed phrase, as well as connect your ColdCard to Sparrow wallet and make some transactions. Both ColdCard and Sparrow Wallet have more advanced features which you can learn about in the [Middle Ground](https://www.github.com/econoalchemist/ColdCard-MiddleGround/) guide or the [Paranoid](https://www.github.com/econoalchemist/ColdCard-Paranoid/) guide. Be sure to power down your ColdCard, disconnect it, and secure it in a safe place.  
 
