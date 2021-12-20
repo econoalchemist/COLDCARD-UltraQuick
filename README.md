@@ -180,7 +180,7 @@ Next, you will be asked to sign the transaction using your ColdCard. You can dep
   <img width="452" height="339" src="Assets/Sparrow17.png">
   </p>
  
-A moment later on the ColdCard, it will ask you to confirm. Hit the <kbd>Ok</kbd> button (Check Mark) and the ColdCard will sign the transaction and pass the details back to Sparrow Wallet. Then in Sparrow Wallet, click on the <kbd>Broadcast Transaction</kbd> button to send the signed transaction to the Bitcoin Network. 
+A moment later on the ColdCard, it will ask you to confirm. Hit the <kbd>OK</kbd> button and the ColdCard will sign the transaction and pass the details back to Sparrow Wallet. Then in Sparrow Wallet, click on the <kbd>Broadcast Transaction</kbd> button to send the signed transaction to the Bitcoin Network. 
 
   <p align="center">
   <img width="814" height="256" src="Assets/Sparrow18.png">
